@@ -6,7 +6,7 @@
         id        = "com.phonegap.accessibility-advisor"
         version   = "1.0.0">
 
-    <name>unoxtutti</name>
+    <name>accessibility advisor</name>
 
     <description>
        accessibility advisor maps the accessible places in the neighborhood of San Lorenzo, Rome RM
