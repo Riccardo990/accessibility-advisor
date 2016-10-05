@@ -16,7 +16,7 @@
         BorghiArtistici Team
     </author>
     <!-- Define app icon for each platform. -->
-	<icon src="www/unoxtuttituttixuno.png" />
+	<icon src="unoxtuttituttixuno.png" />
     <icon src="www/res/icons/android/icon-36-ldpi.png" />
     <icon src="www/res/icons/android/icon-48-mdpi.png" />
     <icon src="www/res/icons/android/icon-72-hdpi.png" />
